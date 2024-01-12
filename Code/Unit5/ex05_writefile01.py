@@ -4,5 +4,5 @@ def writeFile(filename):
     file.write(string)
     file.close()
 
-testfile = 'write01.txt'
+testfile = './testfile/write01.txt'
 writeFile(testfile)

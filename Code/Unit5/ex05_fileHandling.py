@@ -12,7 +12,7 @@ def readFile(filePath):
         data = file.readlines()
     return data
 
-filename  = 'test.txt'
+filename  = './testfile/test.txt'
 init_data = 'initial data\n'
 append_data = 'append data\n'
 

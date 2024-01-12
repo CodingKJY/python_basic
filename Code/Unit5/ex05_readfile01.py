@@ -3,7 +3,7 @@ def readFile(filename, n = None):
     print(file.read(n))
     file.close()
 
-testfile = 'read.txt'
+testfile = './testfile/read.txt'
 readFile(testfile)
 readFile(testfile, 3)
 readFile(testfile, -1)

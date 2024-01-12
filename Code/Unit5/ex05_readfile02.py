@@ -4,7 +4,7 @@ def readFile(filename, n = None, offset = 0):
     print(file.read(n))
     file.close()
 
-testfile = 'read.txt'
+testfile = './testfile/read.txt'
 readFile(testfile, 1, 0)
 readFile(testfile, 1, 3)
 readFile(testfile, 1, 6)
