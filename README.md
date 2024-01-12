@@ -27,6 +27,9 @@
 - [ ] **Unit 6**: Containers
 - [ ] **Unit 7**: Advanced function design
 - [ ] **Unit 8**: Class introduction
+    - [ ] Sample codes
+    - [ ] Declaration
+    - [ ] Class attributes
 - [ ] **Unit 9**: Inheritance
 - [ ] **Unit 10**: Polymorphism
 - [ ] **Unit 11**: Encapsulation
