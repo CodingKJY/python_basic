@@ -1,7 +1,5 @@
 # Unit 5: File I/O
-- [back to menu](../../README.md)
-- [File Methods](#file-methods)
-- [Read/Write Methods](#readwrite-methods)
+[↩️ back to menu](../../README.md)
 
 There are four basic operation of file handling:
 - Open 
@@ -68,4 +66,3 @@ def readFile(filePath):
         data = file.readlines()
     return data
 ```
-[>>> ex05_fileHandling.py](./ex05_fileHandling.py)
