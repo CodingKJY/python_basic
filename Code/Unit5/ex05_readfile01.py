@@ -6,3 +6,4 @@ def readFile(filename, n = None):
 testfile = 'read.txt'
 readFile(testfile)
 readFile(testfile, 3)
+readFile(testfile, -1)
