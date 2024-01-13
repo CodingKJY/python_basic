@@ -25,9 +25,9 @@ file.close()
 |`'b'`|binary mode|
 |`'+'`|open for updating (reading and writing)|
 - r/w/a/x cannot be used at the same time
-- r+ -> read and write mode, failing if the file not exists
-- rb -> binary read only mode
-- w+ -> write and read mode
+- `'r+'` -> read and write mode, failing if the file not exists
+- `'rb'` -> binary read only mode
+- `'w+'` -> write and read mode
 
 ## File Methods
 |Method|Description|
