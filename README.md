@@ -25,9 +25,9 @@
 
 **Unit 4**: [Functions](/Code/Unit4/Unit4.md)
 
-**Unit 5**: [Containers](/Code/Unit5/Unit5.md)
+**Unit 5**: Containers
 
-**Unit 6**: File I/O
+**Unit 6**: [File I/O](/Code/Unit6/Unit6.md)
 
 **Unit 7**: Advanced function design
 
